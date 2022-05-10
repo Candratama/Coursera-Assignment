@@ -1,2 +1,2 @@
 # Coursera-Assignment
-Repositori tugas dari Coursera
+Kumpulan tugas dari Coursera
